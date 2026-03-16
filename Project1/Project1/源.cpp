@@ -1,8 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
+class date {
 
-int main() {
-
-	printf("hehe\n");
-	return 0;
-}
+};
