@@ -1,0 +1,6 @@
+﻿  string.cpp
+D:\远程clone\string实验\string实验\string.cpp(9,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\远程clone\string实验\string实验\string.cpp(10,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\远程clone\string实验\string实验\string.cpp(11,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\远程clone\string实验\string实验\string.cpp(12,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  string实验.vcxproj -> D:\远程clone\string实验\x64\Debug\string实验.exe
