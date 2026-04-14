@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u8FDC\u7A0Bclone\\second--date--last\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D6203B-9D4B-49A1-992E-B40AC6CEE914}|second--date--last\\second--date--last.vcxproj|D:\\\u8FDC\u7A0Bclone\\second--date--last\\second--date--last\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D6203B-9D4B-49A1-992E-B40AC6CEE914}|second--date--last\\second--date--last.vcxproj|solutionrelative:second--date--last\\date.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D6203B-9D4B-49A1-992E-B40AC6CEE914}|second--date--last\\second--date--last.vcxproj|D:\\\u8FDC\u7A0Bclone\\second--date--last\\second--date--last\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D6203B-9D4B-49A1-992E-B40AC6CEE914}|second--date--last\\second--date--last.vcxproj|solutionrelative:second--date--last\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80D6203B-9D4B-49A1-992E-B40AC6CEE914}|second--date--last\\second--date--last.vcxproj|D:\\\u8FDC\u7A0Bclone\\second--date--last\\second--date--last\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D6203B-9D4B-49A1-992E-B40AC6CEE914}|second--date--last\\second--date--last.vcxproj|solutionrelative:second--date--last\\date.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "date.h",
+              "DocumentMoniker": "D:\\\u8FDC\u7A0Bclone\\second--date--last\\second--date--last\\date.h",
+              "RelativeDocumentMoniker": "second--date--last\\date.h",
+              "ToolTip": "D:\\\u8FDC\u7A0Bclone\\second--date--last\\second--date--last\\date.h",
+              "RelativeToolTip": "second--date--last\\date.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-20T05:47:05.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\\u8FDC\u7A0Bclone\\second--date--last\\second--date--last\\main.cpp",
+              "RelativeDocumentMoniker": "second--date--last\\main.cpp",
+              "ToolTip": "D:\\\u8FDC\u7A0Bclone\\second--date--last\\second--date--last\\main.cpp",
+              "RelativeToolTip": "second--date--last\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-20T05:46:56.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "date.cpp",
+              "DocumentMoniker": "D:\\\u8FDC\u7A0Bclone\\second--date--last\\second--date--last\\date.cpp",
+              "RelativeDocumentMoniker": "second--date--last\\date.cpp",
+              "ToolTip": "D:\\\u8FDC\u7A0Bclone\\second--date--last\\second--date--last\\date.cpp",
+              "RelativeToolTip": "second--date--last\\date.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-20T05:46:43.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
