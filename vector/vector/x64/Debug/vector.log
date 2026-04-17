@@ -1,0 +1,18 @@
+﻿  main.cpp
+D:\远程clone\vector\vector\vector.h(170,28): error C2440: “默认参数”: 无法从“T”转换为“T”
+D:\远程clone\vector\vector\vector.h(170,28): error C2440:         with
+D:\远程clone\vector\vector\vector.h(170,28): error C2440:         [
+D:\远程clone\vector\vector\vector.h(170,28): error C2440:             T=bit::vector<int>
+D:\远程clone\vector\vector\vector.h(170,28): error C2440:         ]
+  (编译源文件“main.cpp”)
+      D:\远程clone\vector\vector\vector.h(170,28):
+      由于复制构造函数不明确或没有可用的复制构造函数，因此无法复制构造 class“bit::vector<int>”
+      D:\远程clone\vector\vector\vector.h(170,28):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\远程clone\vector\vector\main.cpp(6,35):
+          查看 "bit::vector<bit::vector<int>>::vector(int,T)" 所需的默认参数表达式的实例化处理
+          with
+          [
+              T=bit::vector<int>
+          ]
+  
