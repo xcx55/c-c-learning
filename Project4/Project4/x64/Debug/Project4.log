@@ -1,0 +1,7 @@
+﻿  aaa.cpp
+D:\远程clone\Project4\Project4\aaa.cpp(28,15): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\远程clone\Project4\Project4\aaa.cpp(56,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\远程clone\Project4\Project4\aaa.cpp(57,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\远程clone\Project4\Project4\aaa.cpp(58,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\远程clone\Project4\Project4\aaa.cpp(59,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Project4.vcxproj -> D:\远程clone\Project4\x64\Debug\Project4.exe
