@@ -1,0 +1,32 @@
+﻿  main.cpp
+  tree.cpp
+D:\远程clone\tree路径\tree路径\tree.h(7,31): error C2061: 语法错误: 标识符“TreeNode”
+  (编译源文件“main.cpp”)
+  
+D:\远程clone\tree路径\tree路径\tree.h(14,13): error C3873: “0x2026”: 不允许将此字符作为标识符的第一个字符
+  (编译源文件“main.cpp”)
+  
+D:\远程clone\tree路径\tree路径\tree.h(17,13): error C2061: 语法错误: 标识符“tree”
+  (编译源文件“main.cpp”)
+  
+D:\远程clone\tree路径\tree路径\tree.h(5,16): error C1075: “{”: 未找到匹配令牌
+  (编译源文件“main.cpp”)
+  
+D:\远程clone\tree路径\tree路径\tree.h(7,31): error C2061: 语法错误: 标识符“TreeNode”
+  (编译源文件“tree.cpp”)
+  
+D:\远程clone\tree路径\tree路径\tree.h(14,13): error C3873: “0x2026”: 不允许将此字符作为标识符的第一个字符
+  (编译源文件“tree.cpp”)
+  
+D:\远程clone\tree路径\tree路径\tree.h(17,13): error C2061: 语法错误: 标识符“tree”
+  (编译源文件“tree.cpp”)
+  
+D:\远程clone\tree路径\tree路径\tree.cpp(4,13): error C2061: 语法错误: 标识符“tree”
+D:\远程clone\tree路径\tree路径\tree.cpp(4,6): error C2535: “void Solution::test01(void)”: 已经定义或声明成员函数
+      D:\远程clone\tree路径\tree路径\tree.h(17,6):
+      参见“Solution::test01”的声明
+  
+D:\远程clone\tree路径\tree路径\tree.h(5,16): error C1075: “{”: 未找到匹配令牌
+  (编译源文件“tree.cpp”)
+  
+  正在生成代码...
