@@ -1,0 +1,10 @@
+﻿  源.cpp
+D:\远程clone\duotai1\duotai1\vector.h(15,4): error C3861: “printff”: 找不到标识符
+  (编译源文件“源.cpp”)
+      D:\远程clone\duotai1\duotai1\vector.h(15,11):
+      “printff”: 函数声明必须可用，因为所有参数都不依赖于模板参数
+      D:\远程clone\duotai1\duotai1\vector.h(15,11):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\远程clone\duotai1\duotai1\vector.h(7,8):
+          在编译类模板“bit::vector”时
+  

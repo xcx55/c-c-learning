@@ -1,0 +1,11 @@
+﻿  stack_queue.cpp
+D:\远程clone\1111\1111\stack_queue.h(56,4): error C3861: “x”: 找不到标识符
+  (编译源文件“stack_queue.cpp”)
+      D:\远程clone\1111\1111\stack_queue.h(56,4):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\远程clone\1111\1111\stack_queue.h(7,8):
+          在编译类模板“bit::priority_queue”时
+  
+D:\远程clone\1111\1111\stack_queue.h(56,4): error C2065: “x”: 未声明的标识符
+  (编译源文件“stack_queue.cpp”)
+  
