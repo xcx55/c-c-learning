@@ -1,0 +1,14 @@
+﻿  priority-queue.cpp
+D:\远程clone\priority-queue\priority-queue\queue-priority.h(43,11): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“priority-queue.cpp”)
+      D:\远程clone\priority-queue\priority-queue\queue-priority.h(43,11):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\远程clone\priority-queue\priority-queue\queue-priority.h(20,8):
+          在编译类模板“bit::priority_queue”时
+  
+D:\远程clone\priority-queue\priority-queue\queue-priority.h(43,3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“priority-queue.cpp”)
+  
+D:\远程clone\priority-queue\priority-queue\queue-priority.h(44,20): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“priority-queue.cpp”)
+  

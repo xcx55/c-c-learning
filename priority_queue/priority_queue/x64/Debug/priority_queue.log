@@ -1,0 +1,15 @@
+﻿  priority_queue.cpp
+D:\远程clone\priority_queue\priority_queue\标queue_priority.h(70,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“priority_queue.cpp”)
+      D:\远程clone\priority_queue\priority_queue\标queue_priority.h(70,14):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\远程clone\priority_queue\priority_queue\priority_queue.cpp(7,45):
+          查看对正在编译的 类 模板 实例化“xcx::priority_queue<int,xcx::greator<int>,std::vector<int,std::allocator<int>>>”的引用
+          D:\远程clone\priority_queue\priority_queue\标queue_priority.h(68,8):
+          在编译 类 模板 成员函数“void xcx::priority_queue<int,xcx::greator<int>,std::vector<int,std::allocator<int>>>::adjustup(void)”时
+              D:\远程clone\priority_queue\priority_queue\标queue_priority.h(31,12):
+              请参阅 "xcx::priority_queue<int,xcx::greator<int>,std::vector<int,std::allocator<int>>>::push" 中对 "xcx::priority_queue<int,xcx::greator<int>,std::vector<int,std::allocator<int>>>::adjustup" 的第一个引用
+              D:\远程clone\priority_queue\priority_queue\priority_queue.cpp(9,9):
+              请参阅 "main" 中对 "xcx::priority_queue<int,xcx::greator<int>,std::vector<int,std::allocator<int>>>::push" 的第一个引用
+  
+  priority_queue.vcxproj -> D:\远程clone\priority_queue\x64\Debug\priority_queue.exe
